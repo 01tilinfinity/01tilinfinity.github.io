@@ -1,8 +1,8 @@
 import { useEffect } from "react";
 
 const profile = {
-  name: "Yerang Annie Kim",
-  title: "Research Intern, STAI Lab, KAIST AI",
+  name: "Irene Yerang Kim",
+  title: "Incoming M.S. Student, STAI Lab, KAIST AI",
   email: "hs01151116@korea.ac.kr",
   photo: `${import.meta.env.BASE_URL}profile.jpeg`,
   links: [
@@ -197,7 +197,7 @@ function App() {
       <section className="docs-section" id="about">
         <h4>About</h4>
         <p>
-          Hello! I am a Research Intern at the STAI Lab,{" "}
+          Hello! I am an incoming M.S. student at the STAI Lab,{" "}
           <a href="https://gsai.kaist.ac.kr" target="_blank" rel="noreferrer">
             KAIST AI
           </a>
@@ -210,9 +210,8 @@ function App() {
           AI Research Intern at the NCSOFT NLP Center.
         </p>
         <p>
-          My research interests lie in <b>Information Retrieval</b>, particularly
-          retrieval grounded in complex linguistic constraints. I am also
-          interested in <b>Human–AI Alignment</b> and <b>Data-Centric AI</b>.
+          My research interests lie in <b>Information Retrieval</b>,{" "}
+          <b>Reasoning</b>, and <b>Agentic AI</b>.
         </p>
       </section>
 
