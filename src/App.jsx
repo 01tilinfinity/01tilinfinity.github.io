@@ -17,6 +17,17 @@ const profile = {
 // with { me: true } so it renders in bold.
 const publications = [
   {
+    tag: "W2",
+    title:
+      "E-SENS: Exclusion-Sensitive Penalization for Negative-Constraint Retrieval",
+    authors: [
+      { me: true, name: "Yerang Kim" },
+      "Jiyoon Myung",
+      "Joohyung Han",
+    ],
+    venue: "EMNLP 2026 GroundLM Workshop (Accepted)",
+  },
+  {
     tag: "W1",
     title:
       "Structured Language Generation Model: Loss Calibration and Formatted Decoding for Robust Structure Prediction and Knowledge Retrieval",
