@@ -25,7 +25,7 @@ const publications = [
       "Jiyoon Myung",
       "Joohyung Han",
     ],
-    venue: "EMNLP 2026 GroundLM Workshop (Accepted)",
+    venue: "Grounding Language Models (GroundLM) Workshop at EMNLP 2026",
   },
   {
     tag: "W1",
