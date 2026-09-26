@@ -26,6 +26,7 @@ const publications = [
       "Joohyung Han",
     ],
     venue: "Grounding Language Models (GroundLM) Workshop at EMNLP 2026",
+    links: [{ label: "Paper", href: "https://arxiv.org/pdf/2608.30130" }],
   },
   {
     tag: "W1",
