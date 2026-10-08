@@ -80,6 +80,11 @@ const publications = [
 
 const education = [
   {
+    org: "KAIST AI",
+    period: "2027.03~2029.03 (Expected)",
+    detail: "M.S. in Artificial Intelligence",
+  },
+  {
     org: "Korea University",
     period: "Mar. 2020 – Feb. 2025",
     detail:
