@@ -25,7 +25,7 @@ const publications = [
       "Jiyoon Myung",
       "Joohyung Han",
     ],
-    venue: "Grounding Language Models (GroundLM) Workshop at EMNLP 2026",
+    venue: "Grounding Language Models Workshop at EMNLP 2026",
     links: [{ label: "Paper", href: "https://arxiv.org/pdf/2608.30130" }],
   },
   {
@@ -39,7 +39,7 @@ const publications = [
       "Woochul Lee",
       "Yeonsoo Lee",
     ],
-    venue: "Frontiers in Information Retrieval (FIR) Workshop at AAAI 2026",
+    venue: "New Frontiers in Information Retrieval Workshop at AAAI 2026",
     links: [{ label: "Paper", href: "https://arxiv.org/abs/2402.08971" }],
   },
   {
