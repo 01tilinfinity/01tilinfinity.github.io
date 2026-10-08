@@ -39,7 +39,7 @@ const publications = [
       "Woochul Lee",
       "Yeonsoo Lee",
     ],
-    venue: "AAAI 2026 Workshop on Frontiers in Information Retrieval",
+    venue: "Frontiers in Information Retrieval (FIR) Workshop at AAAI 2026",
     links: [{ label: "Paper", href: "https://arxiv.org/abs/2402.08971" }],
   },
   {
