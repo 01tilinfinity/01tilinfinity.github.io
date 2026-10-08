@@ -68,7 +68,7 @@ const publications = [
       "Hyungjun Kim",
       "Heonchang Yu",
     ],
-    venue: "Annual Conference of KIPS (ACK), Nov. 2023",
+    venue: "Annual Conference of KIPS (ACK), 2023.11",
     links: [
       {
         label: "Paper",
@@ -86,13 +86,13 @@ const education = [
   },
   {
     org: "Korea University",
-    period: "Mar. 2020 – Feb. 2025",
+    period: "2020.03~2025.02",
     detail:
       "B.S. in Computer Science & Engineering, B.A. in Korean Language & Literature (GPA 4.06 / 4.5)",
   },
   {
     org: "Gyeonggi Academy of Foreign Languages",
-    period: "Mar. 2017 – Feb. 2020",
+    period: "2017.03~2020.02",
     detail: "High School Diploma, English Major / Chinese Secondary Major",
   },
 ];
@@ -105,17 +105,17 @@ const experience = [
   },
   {
     org: "Samsung SDS",
-    period: "Jan. 2025 – Jul. 2026",
+    period: "2025.01~2026.07",
     detail: "Software Engineer",
   },
   {
     org: "NCSOFT, NLP Center",
-    period: "Sep. 2023 – Feb. 2024",
+    period: "2023.09~2024.02",
     detail: "AI Research Intern",
   },
   {
     org: "DnCLab, Korea University",
-    period: "Aug. 2023 – Dec. 2023",
+    period: "2023.08~2023.12",
     detail: "Undergraduate Research Assistant",
   },
 ];
